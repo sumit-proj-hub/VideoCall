@@ -1,0 +1,28 @@
+{
+  "name": "videocall-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "export PUBLIC_IP=$(curl -s https://api.ipify.org); node src/index.js",
+    "dev": "nodemon src/index.js",
+    "migrations": "node src/db/migrations/run_migrations.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "prettier": "^3.5.3"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mediasoup": "^3.16.0",
+    "pg": "^8.13.3",
+    "socket.io": "^4.8.1"
+  }
+}
