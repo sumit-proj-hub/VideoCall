@@ -1,6 +1,6 @@
  📞 VideoCall - Android Video Calling App with Node.js Backend
 
-Welcome to **VideoCall**, a full-stack, end-to-end encrypted video calling application built with modern Android tools and a scalable WebRTC-based SFU backend powered by mediasoup.
+**VideoCall** is a full-stack, end-to-end encrypted video calling application built with modern Android tools and a scalable WebRTC-based SFU backend powered by mediasoup.
 
 ## 📱 Features
 
