@@ -32,14 +32,12 @@
 
 ## 📱 Screenshots
 
-| Login | Sign Up |
-|:-----:|:--------:|
-| ![Login](assets/login.png) | ![SignUp](assets/signup.png) |
+## 📱 Screenshots
 
-| Home | Manage Rooms |
-|:----:|:-------------:|
-| ![Home](assets/home.png) | ![ManageRooms](assets/manage_rooms.png) |
+| Login | Sign Up | Home |
+|:-----:|:--------:|:----:|
+| ![Login](assets/login.png) | ![SignUp](assets/signup.png) | ![Home](assets/home.png) |
 
-| Room Info | Video Call |
-|:---------:|:-----------:|
-| ![RoomInfo](assets/room_info.png) | ![VideoCall](assets/video_call.png) |
+| Manage Rooms | Room Info | Video Call |
+|:------------:|:----------:|:----------:|
+| ![ManageRooms](assets/manage_rooms.png) | ![RoomInfo](assets/room_info.png) | ![VideoCall](assets/video_call.png) |
