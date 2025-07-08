@@ -32,8 +32,6 @@
 
 ## 📱 Screenshots
 
-## 📱 Screenshots
-
 | Login | Sign Up | Home |
 |:-----:|:--------:|:----:|
 | ![Login](assets/login.png) | ![SignUp](assets/signup.png) | ![Home](assets/home.png) |
